@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miriam128
 - 👀 I’m interested in IoT, Machine Learning and AI
-- 🌱 I’m currently learning Javascript, Python and DB
+- 🌱 I’m currently learning React, Laravel/Lumen and SQL
 - 💞️ I’m looking to collaborate on my School Works
 - 📫 How to reach me ...
 
